@@ -2,6 +2,8 @@
 
 A responsive React and TypeScript implementation of the supplied Big Happy dashboard and Performance Analytics assessment. The application uses the bundled `sample-data.json`; the supplied recording is treated as a visual and interaction reference.
 
+Live demo: [big-happy-performance-dashboard.vercel.app](https://big-happy-performance-dashboard.vercel.app)
+
 ## Prerequisites
 
 - Node.js 22.13 or newer
